@@ -96,6 +96,7 @@
 				TargetAttributes = {
 					4D8EDEE51DF74D0600A52327 = {
 						CreatedOnToolsVersion = 8.0;
+						DevelopmentTeam = 99PV4D46L4;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -260,6 +261,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 99PV4D46L4;
 				INFOPLIST_FILE = RevolutionaryApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = MyAppA.RevolutionaryApp;
@@ -272,6 +274,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 99PV4D46L4;
 				INFOPLIST_FILE = RevolutionaryApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = MyAppA.RevolutionaryApp;
